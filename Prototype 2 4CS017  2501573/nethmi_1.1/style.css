@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148623068.jpg?semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+#locationInput {
+    width: 250px;
+    margin-right: 10px;
+}
+
+#searchButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#searchButton:hover {
+    background-color: #45a049;
+}
+
+#myParagraph {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
